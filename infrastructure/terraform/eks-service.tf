@@ -49,7 +49,7 @@ labels = {
 }
 }
 spec {
-replicas = 3
+replicas = 2
 selector {
 match_labels = {
 "app" = "wordpress"
