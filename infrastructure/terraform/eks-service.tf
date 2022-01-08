@@ -32,7 +32,7 @@ spec {
 access_modes = ["ReadWriteOnce"]
 resources {
 requests = {
-storage = "1Gi"
+storage = "1GI"
 }
 }
 }
